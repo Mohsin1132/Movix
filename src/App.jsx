@@ -9,7 +9,7 @@ import Footer from "./components/footer/Footer.jsx";
 import Home from "./pages/home/Home.jsx";
 import Explore from "./pages/explore/Explore.jsx";
 import Details from "./pages/details/Details.jsx";
-import PageNotFound from "./pages/404/404.jsx";
+import PageNotFound from "./pages/404/PageNotFound.jsx";
 import SearchResult from "./pages/searchResult/SearchResult.jsx";
 
 
